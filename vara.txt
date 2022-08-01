@@ -4,3 +4,4 @@ school temp
 college
 vallba
 suri
+pandu
