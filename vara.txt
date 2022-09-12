@@ -4,10 +4,8 @@ school temp
 college
 vallba
 suri
-<<<<<<< Updated upstream
 pandu
 mahi
-=======
 mahi
 gaya
->>>>>>> Stashed changes
+hi irfan
